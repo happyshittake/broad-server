@@ -1,9 +1,10 @@
 {
-  "name": "laravel/laravel",
-  "description": "The Laravel Framework.",
+  "name": "happyshittake/broad-server",
+  "description": "Broad Api Server",
   "keywords": [
-    "framework",
-    "laravel"
+    "broad",
+    "laravel",
+    "api"
   ],
   "license": "MIT",
   "type": "project",
